@@ -21,7 +21,7 @@ To achieve an accurate R² score and minimize the Mean Absolute Error (MAE), sev
 
 ## 📈 Results
 The model successfully predicts car prices with high accuracy. The relationship between the actual prices and the model's predicted prices demonstrates a strong linear fit across various price ranges.
-*(Note: Upload the `actual_vs_predicted.png` graph we generated to your repo and display it here!)*
+
 
 ## 🚀 How to Run the Code
 1. Clone this repository:
