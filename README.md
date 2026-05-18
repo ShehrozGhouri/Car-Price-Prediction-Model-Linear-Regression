@@ -26,4 +26,4 @@ The model successfully predicts car prices with high accuracy. The relationship 
 ## 🚀 How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+   git clone [https://github.com/ShehrozGhouri/Car-Price-Prediction-Model-Linear-Regression]
